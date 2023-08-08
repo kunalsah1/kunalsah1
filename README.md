@@ -2,9 +2,9 @@
 
 
 ##  About Me
-I am a BCom graduate with a strong passion for coding and web development. 
+I am a B.Com graduate with a strong passion for coding and web development. 
 Technology has always fascinated me, and I am eager to explore the world of full-stack development. 
-While I have no professional experience, I am excited to start my journey as a full-stack developer and bring my frontend knowledge and basic backend skills to life.
+While I have no professional experience, I am excited to start my journey as a full-stack developer and bring my front-end knowledge and basic back-end skills to life.
 
 
 ##  Interests
