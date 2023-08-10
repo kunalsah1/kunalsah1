@@ -1,36 +1,11 @@
-# Hi, I'm Kunal Sah!
+<h1 align="center">Hi 👋, I'm Kunal Sah</h1>
+<h3 align="center">I have no professional experience, I am excited to start my journey as a full-stack developer and bring my frontend knowledge and basic backend skills to life.</h3>
 
+- 📫 How to reach me **sahkunal94@gmail.com**
 
-##  About Me
-I am a B.Com graduate with a strong passion for coding and web development. 
-Technology has always fascinated me, and I am eager to explore the world of full-stack development. 
-While I have no professional experience, I am excited to start my journey as a full-stack developer and bring my front-end knowledge and basic back-end skills to life.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-##  Interests
-- Web Development
-- Frontend Technologies (HTML, CSS, JavaScript)
-- Backend Technologies (Node.js, Express, MySql)
-- Full-Stack Development
-- Open Source Projects
-
-##  Learning Journey
-Currently, I am on a journey to expand my skills and become a proficient full-stack developer. 
-
-Despite having no experience, I am actively learning and improving my knowledge in the following areas:
-- Advancing my frontend skills with popular frameworks like React.js.
-- Deepening my understanding of backend development with Node.js and Express.
-- Exploring databases and data management using MySql.
-- Learning about version control with Git and collaborative development practices.
-
-##  Collaboration
-I am excited to collaborate with fellow developers on projects that challenge and inspire me.
-I am open to contributing to open-source projects and working in a team environment to build impactful web applications.
-
-##  How to Reach Me
-You can reach out to me via email at - sahkunal94@gmail.com
-Let's connect and discuss anything related to web development, coding, or technology. 
-I'm always open to learning from and collaborating with others in the community!
-
-Thank you for visiting my profile!
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
