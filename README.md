@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Sah</h1>
-<h3 align="center">I have no professional experience, I am excited to start my journey as a full-stack developer and bring my frontend knowledge and basic backend skills to life.</h3>
+<h3 align="center">I am a B.Com graduate with a strong passion for coding and web development. Technology has always fascinated me, and I am eager to explore the world of full-stack development. While I have no professional experience, I am excited to start my journey as a full-stack developer and bring my frontend knowledge and basic backend skills to life. Currently, I am on a journey to expand my skills and become a proficient full-stack developer.</h3>
 
 - 📫 How to reach me **sahkunal94@gmail.com**
 
